@@ -202,7 +202,7 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
-	print(" [*] Email       : alvinhezasaputra@gmail.com")
+	print(" [*] Email       : heykarley@gmail.com")
 	print(" [*] Bergabung   : %s"%(tgl))
 	print(" [*] ---------------------------------------------")
 	print(" [*] Status      : %sPremium%s"% (H,N))
